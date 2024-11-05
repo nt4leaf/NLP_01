@@ -2,3 +2,4 @@ matplotlib
 seaborn
 spacy
 scikit-learn
+keras
