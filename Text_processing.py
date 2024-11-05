@@ -1,3 +1,4 @@
+pip install --upgrade google-api-python-client
 import re
 import numpy as np
 import pandas as pd
