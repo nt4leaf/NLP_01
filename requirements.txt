@@ -1,3 +1,4 @@
 matplotlib
 seaborn
 spacy
+scikit-learn
