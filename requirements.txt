@@ -3,3 +3,4 @@ seaborn
 spacy
 scikit-learn
 keras
+tensorflow
